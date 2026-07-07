@@ -1,16 +1,138 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thuanlm215/thuanlm215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Le%20Minh%20Thuan&fontSize=50&fontAlignY=35&desc=DevSecOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=DevSecOps+%26+Cloud+Engineer;Kubernetes+%7C+AWS+%7C+Security;Building+Stable+%26+Secure+Systems;Automating+Everything+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=thuanlm215&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Le Minh Thuan
+role: Cloud Security | DevSecOps | AI Platform
+current:
+  - Building AI Agent platforms & Infrastructure Portals
+  - Managing AWS, Azure, EKS, OpenShift at scale (100+ nodes)
+  - Implementing Policy as Code & Cloud Native Security
+interests:
+  - Cloud Infrastructure & Security
+  - Platform Engineering & Automation
+  - AI-powered DevOps Solutions
+```
+
+---
+
+## 🎖️ Certifications
+
+<div align="center">
+
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKS](https://img.shields.io/badge/CKS-Certified_Kubernetes_Security_Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![KCSA](https://img.shields.io/badge/KCSA-Kubernetes_Cloud_Native_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![TOEIC](https://img.shields.io/badge/TOEIC-850%2F990-4CAF50?style=for-the-badge&logo=duolingo&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Orchestration
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### DevSecOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+
+### Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![AWS Security Hub](https://img.shields.io/badge/Security_Hub-DD344C?style=for-the-badge&logo=amazonsecurityhub&logoColor=white)
+
+### Networking & Proxy
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
+![Istio](https://img.shields.io/badge/Service_Mesh-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/thuanlm215?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuanlm215&repo=thuanlm215&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 *Most of my work involves private enterprise repositories. Public repos showcase personal learning and side projects.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thuanlm215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thuanlm215&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thuanlm215&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thuanlm215)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuanlee215@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Automate everything. Secure everything. Monitor everything."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
