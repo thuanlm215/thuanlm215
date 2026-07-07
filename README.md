@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Le%20Minh%20Thuan&fontSize=50&fontAlignY=35&desc=DevSecOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Le%20Minh%20Thuan&fontSize=50&fontAlignY=35&desc=Cloud%20Security%20|%20DevSecOps%20|%20AI%20Platform&descAlignY=55&descSize=20&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=DevSecOps+%26+Cloud+Engineer;Kubernetes+%7C+AWS+%7C+Security;Building+Stable+%26+Secure+Systems;Automating+Everything+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -83,38 +83,15 @@ interests:
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/thuanlm215?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuanlm215&repo=thuanlm215&theme=tokyonight&hide_border=true" />
-</a>
+[![Thuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thuanlm215&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 > 💡 *Most of my work involves private enterprise repositories. Public repos showcase personal learning and side projects.*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thuanlm215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thuanlm215&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thuanlm215&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
