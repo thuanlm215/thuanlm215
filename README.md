@@ -49,23 +49,21 @@ interests:
 
 ## Tech stack
 
-The tools I actually spend time on:
+Some tools I use often:
 
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
 </div>
-
-Also daily: Azure, EKS, OpenShift, Docker, GitLab CI, Prometheus/Grafana.
 
 ---
 
@@ -77,7 +75,7 @@ Also daily: Azure, EKS, OpenShift, Docker, GitLab CI, Prometheus/Grafana.
 
 </div>
 
-Day-to-day work is mostly private enterprise repos. Public history includes side projects and the AWS Labs contribution above.
+Most work lives in private repos. Public history is a mix of side projects and open source.
 
 ---
 
