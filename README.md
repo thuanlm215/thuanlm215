@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Le%20Minh%20Thuan&fontSize=50&fontAlignY=35&desc=Cloud%20Security%20|%20DevSecOps%20|%20AI%20Platform&descAlignY=55&descSize=20&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=DevSecOps+%26+Cloud+Engineer;Kubernetes+%7C+AWS+%7C+Security;Building+Stable+%26+Secure+Systems;Automating+Everything+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=DevSecOps+%26+Cloud+Engineer;Kubernetes+%7C+AWS+%7C+Security;AI+agent+orchestration;Building+Stable+%26+Secure+Systems)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=thuanlm215&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
 
@@ -10,24 +10,30 @@
 
 ---
 
-## 🚀 About Me
+## About
 
 ```yaml
 name: Le Minh Thuan
 role: Cloud Security | DevSecOps | AI Platform
 current:
-  - Building AI Agent platforms & Infrastructure Portals
-  - Managing AWS, Azure, EKS, OpenShift at scale (100+ nodes)
-  - Implementing Policy as Code & Cloud Native Security
+  - Building AI agent platforms and infrastructure portals
+  - Running AWS, Azure, EKS, and OpenShift at scale
+  - Policy as Code and cloud-native security
 interests:
-  - Cloud Infrastructure & Security
-  - Platform Engineering & Automation
-  - AI-powered DevOps Solutions
+  - Cloud infrastructure and security
+  - Platform engineering
+  - Multi-agent CLI orchestration
 ```
 
 ---
 
-## 🎖️ Certifications
+## Open source
+
+- [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) (AWS Labs) — added the official [xAI Grok CLI provider](https://github.com/awslabs/cli-agent-orchestrator/pull/596)
+
+---
+
+## Certifications
 
 <div align="center">
 
@@ -41,49 +47,29 @@ interests:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
-### Cloud & Orchestration
+The tools I actually spend time on:
+
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### DevSecOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-
-### Monitoring & Security
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![AWS Security Hub](https://img.shields.io/badge/Security_Hub-DD344C?style=for-the-badge&logo=amazonsecurityhub&logoColor=white)
-
-### Networking & Proxy
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
-![Istio](https://img.shields.io/badge/Service_Mesh-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-
-### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+
+</div>
+
+Also daily: Azure, EKS, OpenShift, Docker, GitLab CI, Prometheus/Grafana.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub activity
 
 <div align="center">
 
@@ -91,11 +77,11 @@ interests:
 
 </div>
 
-> 💡 *Most of my work involves private enterprise repositories. Public repos showcase personal learning and side projects.*
+Day-to-day work is mostly private enterprise repos. Public history includes side projects and the AWS Labs contribution above.
 
 ---
 
-## 🤝 Connect with Me
+## Connect
 
 <div align="center">
 
@@ -108,7 +94,7 @@ interests:
 
 <div align="center">
 
-### 💡 *"Automate everything. Secure everything. Monitor everything."*
+### *"Automate everything. Secure everything. Monitor everything."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
