@@ -70,18 +70,6 @@ Some tools I use often:
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-[![Thuan's github activity graph](https://techcon-activity-graph.vercel.app/graph?username=thuanlm215&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-Most work lives in private repos. Public history is a mix of side projects and open source.
-
----
-
 ## Connect
 
 <div align="center">
