@@ -29,12 +29,9 @@ interests:
 
 ## Open source
 
-Recent contributions:
-
 - [Kyverno](https://github.com/kyverno/kyverno) — validated PolicyException CEL match conditions at write time across all served API versions ([#17350](https://github.com/kyverno/kyverno/pull/17350), merged)
 - [Kubescape](https://github.com/kubescape/kubescape) — added secure Slack and GovSlack scan notifications with Block Kit summaries ([#3571](https://github.com/kubescape/kubescape/pull/3571), merged)
 - [Kubescape](https://github.com/kubescape/kubescape) — added generic webhook notifications for scan posture summaries ([#3504](https://github.com/kubescape/kubescape/pull/3504), merged)
-- [Herdr File Viewer](https://github.com/smarzban/herdr-file-viewer) — added configurable Unicode and Nerd Font icons for the file tree and finder ([#154](https://github.com/smarzban/herdr-file-viewer/pull/154), open)
 - [CLI Agent Orchestrator](https://github.com/awslabs/cli-agent-orchestrator) (AWS Labs) — added the official xAI Grok CLI provider ([#596](https://github.com/awslabs/cli-agent-orchestrator/pull/596), merged)
 
 ---
@@ -77,7 +74,7 @@ Some tools I use often:
 
 <div align="center">
 
-[![Thuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thuanlm215&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Thuan's GitHub contribution streak](https://streak-stats.demolab.com?user=thuanlm215&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
