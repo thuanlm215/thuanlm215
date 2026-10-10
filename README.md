@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=DevSecOps+%26+Cloud+Engineer;Kubernetes+%7C+AWS+%7C+Security;AI+agent+orchestration;Building+Stable+%26+Secure+Systems)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=thuanlm215&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthuanlm215&label=Profile%20views&labelColor=%23555555&countColor=%236C63FF&style=flat" alt="Profile views" />
 
 </div>
 
